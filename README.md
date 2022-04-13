@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80" alt="c" width="40" height="40"/>
+
 <h1 align="center">Hi 👋, I'm Mitesh Sharma</h1>
 <h3 align="center">A Learning Developer</h3>
 
