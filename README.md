@@ -26,7 +26,7 @@
 <div align="left">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ms00110011&theme=synthwave" alt="cybervirus997" width="47%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?ms00110011&theme=synthwave" alt="jhj" width="47%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ms00110011&theme=synthwave" alt="jhj" width="47%" />
   </p>
 </div>
  
