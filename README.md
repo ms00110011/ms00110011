@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/1102017.png" alt="c" width="100%" height="20%"/>
+<img src="./images/q.png" alt="c" width="100%" height="20%"/>
 
 <h1 align="center">Hi 👋, I'm Mitesh Sharma</h1>
 <h3 align="center">A Learning Developer</h3>
